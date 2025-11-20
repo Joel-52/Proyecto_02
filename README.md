@@ -1,7 +1,5 @@
 # Proyecto_02
 Segundo Proyecto de la materia Python Avanzado (UPSO)
-[README.md](https://github.com/user-attachments/files/23641176/README.md)
-# Proyecto 2
 
 Alumnos: Iñaki Echeverria, Xavi Joel Juan
 
